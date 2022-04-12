@@ -1,4 +1,4 @@
-# STSb-TR 1.0 (STS benchmark Turkish)
+# STSb-TR 1.0 (Semantic Textual Similarity benchmark Turkish)
 
 
 [English STS benchmark dataset](https://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark) translated into Turkish using [Google Cloud Translation API](https://cloud.google.com/translate/docs/basic/translating-text). No human corrections have been made to the translations.
