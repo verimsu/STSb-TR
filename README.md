@@ -1,13 +1,14 @@
 # STSb-TR 1.0 (Semantic Textual Similarity benchmark Turkish)
 
 
-[English STS benchmark dataset](https://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark) translated into Turkish using [Google Cloud Translation API](https://cloud.google.com/translate/docs/basic/translating-text). No human corrections have been made to the translations.
+[English STS benchmark dataset](https://ixa2.si.ehu.eus/stswiki/stswiki.html#STS_benchmark) translated into Turkish using [Google Cloud Translation API](https://cloud.google.com/translate/docs/basic/translating-text). No human corrections have been made to the translations.
 
 ## Models
 All models can be found [here](https://drive.google.com/drive/folders/1mzHnV8H5KqRPdxQfYfoBICvEiBM0aAlW?usp=share_link).
 
 ## License
-Similar to the original [English STS benchmark dataset](http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz), STSb-TR scores are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+Similar to the original [English STS benchmark dataset](http://ixa2.si.ehu.es/stswiki/images/4/48/Stsbenchmark.tar.gz), STSb-TR **scores** are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+
 **Note:** Some original text parts have different licenses and attribution rules. See the license file inside the original dataset archive for details.
 
 
